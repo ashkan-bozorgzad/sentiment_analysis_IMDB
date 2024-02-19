@@ -1,1 +1,7 @@
-# sentiment_analysis_IMDB
+# Sentiment Analysis IMDB
+
+#### Repository Description
+
+
+####  Authors:
++ Ashkan Bozorgzad
